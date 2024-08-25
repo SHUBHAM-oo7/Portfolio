@@ -1,5 +1,4 @@
 {
-  "homepage": "http://SHUBHAM-oo7.github.io/Portfolio",
   "name": "developer-portfolio",
   "description": "Portfolio of Shubham Kumar Singh",
   "version": "0.1.0",
@@ -8,9 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "lint": "next lint"
   },
   "dependencies": {
     "@emailjs/browser": "^4.3.1",
@@ -29,6 +26,7 @@
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
+    "gh-pages": "^6.1.1",
     "postcss": "latest",
     "sass": "^1.69.5",
     "tailwindcss": "latest"
