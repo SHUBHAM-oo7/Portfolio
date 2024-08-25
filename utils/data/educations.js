@@ -9,12 +9,12 @@ export const educations = [
     id: 2,
     title: "Higher Secondary Certificate",
     duration: "2014 - 2016",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    institution: "Don Bosco Senior Secondary School, UP",
   },
   {
     id: 3,
     title: "Secondary School Certificate",
     duration: "2004 - 2014",
-    institution: "Baitus Saif Islamia Madrasah",
+    institution: "Little Flower School GKP, UP",
   }
 ]
